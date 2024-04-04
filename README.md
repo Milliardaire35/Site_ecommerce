@@ -6,9 +6,10 @@ Bienvenue sur notre site E-Commerce développé avec React.js et Tailwind CSS ! 
 
 Notre site E-Commerce est conçu pour offrir aux utilisateurs une expérience de shopping fluide. Il propose une variété de produits dans différentes catégories, permettant aux utilisateurs de naviguer, rechercher et acheter des articles facilement. Le site est développé avec React.js, une bibliothèque JavaScript populaire pour la création d'interfaces utilisateur, et Tailwind CSS, un framework CSS utilitaire.
 
+<img src="./src/assets/Page-accueil.png" href="" alt="Aperçu du Portfolio" style="width: 100%; border-radius: 8px;">
+
 ## Fonctionnalités
 
-- **Authentification Utilisateur :** Les utilisateurs peuvent créer des comptes, se connecter et se déconnecter en toute sécurité.
 - **Catalogue de Produits :** Parcourez une large gamme de produits avec des descriptions détaillées et des images.
 - **Fonctionnalité de Recherche :** Recherchez facilement des produits en utilisant des mots-clés ou des catégories.
 - **Panier d'Achat :** Ajoutez des articles au panier d'achat, mettez à jour les quantités et procédez au paiement.
@@ -19,8 +20,6 @@ Notre site E-Commerce est conçu pour offrir aux utilisateurs une expérience de
 - React.js : Une bibliothèque JavaScript pour la création d'interfaces utilisateur.
 - Tailwind CSS : Un framework CSS utilitaire pour la conception de composants d'interface utilisateur réactifs et personnalisables.
 - React Router : Pour la gestion de la navigation et des routes au sein de l'application.
-- Axios : Pour effectuer des requêtes HTTP afin d'interagir avec le serveur backend.
-- JSON Web Tokens (JWT) : Pour l'authentification et l'autorisation sécurisées.
 
 ## Pour Commencer
 
@@ -45,7 +44,7 @@ Pour exécuter le site E-Commerce en local, suivez ces étapes :
 4. Démarrez le serveur de développement :
 
 <code>npm run dev</code><br>
-            ou
+            ou <br>
 <code>yarn run dev</code><br>
 
 

@@ -27,7 +27,7 @@ Pour exécuter le site E-Commerce en local, suivez ces étapes :
 
 1. Clonez le dépôt sur votre machine locale :
 
-<code>git clone https://github.com/votreusername/site-e-commerce.git</code>
+<code>git clone https://github.com/machia-codeur/site-e-commerce.git</code>
 
 
 2. Accédez au répertoire du projet :
